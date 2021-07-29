@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "971751394534",
+    "project_id": "wheelapp-30ae5",
+    "storage_bucket": "wheelapp-30ae5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971751394534:android:a109ad5f2f061b3deb3f27",
+        "android_client_info": {
+          "package_name": "com.xwheel.luckywheel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971751394534-01f643uhc5t0a5nbsg7o9t4dqjtvta0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xwheel.luckywheel",
+            "certificate_hash": "6ba94044118f8147710fc1195b0ecc7213830686"
+          }
+        },
+        {
+          "client_id": "971751394534-83a4t2ftcrge8iia5jbdau85afu2cauf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xwheel.luckywheel",
+            "certificate_hash": "597b143211d8612448bd581f072f70ce1cc460f6"
+          }
+        },
+        {
+          "client_id": "971751394534-a3fuvm2k4o7s8glfikregbvemtr8jcq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xwheel.luckywheel",
+            "certificate_hash": "fbb43c180dbeb20e1dc7dbcf0a7de1c41b0241bc"
+          }
+        },
+        {
+          "client_id": "971751394534-bd967tvf846i6i3pnieerphrtbr84qfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xwheel.luckywheel",
+            "certificate_hash": "97ba41d27d7cf94a54343d3b99d0f9f06c4d27e9"
+          }
+        },
+        {
+          "client_id": "971751394534-5r9sjmm4jkaqrm98r06sr2p8mjoqc5de.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5csbE-4AZR97A7txNgxwjGxbLkBYIskY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971751394534-5r9sjmm4jkaqrm98r06sr2p8mjoqc5de.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
